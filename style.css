@@ -1,5 +1,38 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+h1 {
+  text-align: center;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+
+nav {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: aqua;
+}
+
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+
+#featured-property p {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  }
+
+  #details div {
+    float:left;
+    width: 25%;
+    background-color: rgb(172, 82, 172);
+    text-align: center;
+  }
+/* everything above works.*/
+
